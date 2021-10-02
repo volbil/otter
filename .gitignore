@@ -3,7 +3,7 @@
 __pycache__/
 venv/
 
-otter.egg-info/
+otterpy.egg-info/
 build/
 dist/
 
