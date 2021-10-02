@@ -3,5 +3,9 @@
 __pycache__/
 venv/
 
+otter.egg-info/
+build/
+dist/
+
 # misc
 .DS_STORE

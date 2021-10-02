@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Otter",
+    name="otter",
     version="1.0",
     author="Volodymyr Biloshytskyi",
     author_email="volbil@protonmail.com",
