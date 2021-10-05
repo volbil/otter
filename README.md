@@ -1,4 +1,4 @@
-<img src="logo.svg" width="100">
+<img src="logo.svg" height="64">
 
 # Otter
 
