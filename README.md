@@ -1,8 +1,6 @@
-<img src="logo.svg" height="64">
-
 # Otter
 
-Otter is framework for creating microservices in Flask like fassion using [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) communication via message queue. Its built in top of [kiwiPy](https://github.com/aiidateam/kiwipy) library.
+<img src="logo.svg" height="64"> Otter is framework for creating microservices in Flask like fassion using [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) communication via message queue. Its built in top of [kiwiPy](https://github.com/aiidateam/kiwipy) library.
 
 ## Application
 
