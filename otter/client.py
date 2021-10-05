@@ -19,7 +19,7 @@ class Client:
 
         return None
 
-    def rpc(self, recepient, payload):
+    def rpc(self, recepient, payload={}):
         if self.comm:
             return self.comm.rpc_send(
                 recepient, payload
@@ -27,7 +27,7 @@ class Client:
 
         return None
 
-    def task(self, recepient, payload):
+    def task(self, recepient, payload={}):
         if self.comm:
             queue = self.comm.task_queue(recepient)
             return queue.task_send(
