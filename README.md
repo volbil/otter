@@ -1,4 +1,4 @@
-![](logo.svg | width=100)
+<img src="logo.svg" width="100">
 
 # Otter
 
