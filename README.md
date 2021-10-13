@@ -1,6 +1,15 @@
+<img align="left" width="95" height="120" src="https://raw.githubusercontent.com/volbil/otter/master/logo.svg">
+
 # Otter
 
-<img src="logo.svg" height="64"> Otter is framework for creating microservices in Flask like fassion using [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) communication via message queue. Its built in top of [kiwiPy](https://github.com/aiidateam/kiwipy) library.
+Framework for microservices.
+
+[![PyPI version](https://badge.fury.io/py/otterpy.svg)](https://badge.fury.io/py/otterpy)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/otterpy/)
+
+## Overview
+
+Otter is framework for creating microservices in Flask like fassion using [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) communication via message queue. Its built in top of [kiwiPy](https://github.com/aiidateam/kiwipy) library.
 
 ## Application
 
