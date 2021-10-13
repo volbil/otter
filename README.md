@@ -6,6 +6,7 @@ Framework for microservices.
 
 [![PyPI version](https://badge.fury.io/py/otterpy.svg)](https://badge.fury.io/py/otterpy)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/otterpy/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Overview
 
