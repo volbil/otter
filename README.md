@@ -57,7 +57,7 @@ if client.comm:
     client.broadcast("otter", subject="message.send")
 
     # Send task to remote worker
-    client.task(5)
+    client.task("example.task", 5)
 
     # Send rpc request to hash "otter" and wait for the result
     data = client.rpc("example.hash", "otter").result()
